@@ -35,6 +35,8 @@ rate1=0.8 rate2=0.4
 
 ## episode7 用谱聚类算法进行聚类 P41
 
+可以解决kmeans在非球状数据上聚类效果不好的问题
+
 The spectral clustering results in different sigma, Case 1
 
 <img src="https://github.com/michelleweii/Introduction-to-ML/blob/master/pic/h7-spectralclustering/from.png" width="650" alt="谱聚类1">
