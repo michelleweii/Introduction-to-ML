@@ -3,6 +3,8 @@
 另外：
 [《PRML》模式识别期末总结](https://blog.csdn.net/weixin_31866177/article/details/83060061)
 
+被概率图模型虐的日日夜夜-_-||
+
 ## episode2 用python+sklearn实现随机森林
 ## episode3 在KNN中使用托梅克连接算法 P21
 
